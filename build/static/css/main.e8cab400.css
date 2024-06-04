@@ -1,0 +1,2 @@
+.grid{grid-gap:1px;display:grid;gap:1px;grid-template-columns:repeat(10,50px);grid-template-rows:repeat(10,50px)}.cell{align-items:center;border:1px solid #000;display:flex;height:50px;justify-content:center;width:50px}.ship{background-color:#999}.hit{background-color:red}.miss{background-color:blue}.battleships{display:flex;justify-content:space-around}.ships{display:flex;flex-direction:column;justify-content:space-evenly}@media (max-width:480px){.battleships{display:flex;flex-direction:column;justify-content:space-around}}
+/*# sourceMappingURL=main.e8cab400.css.map*/
